@@ -1,2 +1,0 @@
-ignoratemi.
-non sarò sottoposto a versioning
